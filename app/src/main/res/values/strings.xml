@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginTest</string>
+    <string name="facebook_app_id">400880354325617</string>
+    <string name="fb_login_protocol_scheme">fb400880354325617</string>
+    <string name="client_id">441165148808-45ob9neao6g238uue9mmjsngvq2vm81u.apps.googleusercontent.com</string>
+    <string name="client_secret">D-7lgp7WWLuWQIBM3rDODvF2</string>
+</resources>
